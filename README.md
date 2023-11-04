@@ -1,2 +1,2 @@
-# SIMBT_02
+# Code Soft
 to- do list app
